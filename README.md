@@ -23,11 +23,13 @@ How To Search A Book If You Know Its Title[It will print the data about that boo
 How to search books by ratings
 
 1. use the .getByRating();
+
 2. l1.getByRating(1); [It will search the books that have the rating >= to 1]
 
 How to search books by genres
 
 1.use the .getByGenre();
+
 2.l1.getByGenre("Test Genre");
 
 How to get the total of pages the books from your list add up to
