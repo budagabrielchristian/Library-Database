@@ -3,7 +3,7 @@
 How To Add A Book In Your List Of Books: 
 
 1. Create a list [listOfBooks l1 = new listOfBooks();]
-2. use the .add() command [l1.add("Test Title",250,3.0,"Test Genre","This is the description of the book.")]
+2. use the .add() command [l1.add("Test Title",250,3.0,"Test Genre","This is the description of the book.");]
 
 How To Get The Entire List Of Books? 
 
