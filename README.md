@@ -33,16 +33,16 @@ How to search books by genres
 
 1.use the .getByGenre();
 
-2.l1.getByGenre("Test Genre");
+2.  l1.getByGenre("Test Genre");
 
 How to get the total of pages the books from your list add up to
 
 1.use the .getPages();
 
-2.l1.getPages();
+2.  l1.getPages();
 
 How to get the number of books in your list:
 
 1. use the .getNumberOfBooks();
 
-2. l1.getNumberOfBooks();
+2.  l1.getNumberOfBooks();
